@@ -6,7 +6,7 @@
 
 #### Language & Tools:
 <div align="center">
-	<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img width=40  src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" />
  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -26,8 +26,13 @@
 
 ------
 
-![](https://github-readme-stats.vercel.app/api?username=rogeriomq&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriomq&layout=compact&hide=java&theme=vue-dark)
+<div align="center">
+	<a href="https://github.com/rogeriomq/github-readme-stats">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriomq&include_all_commits=true&count_private=true&show_icons=true&theme=vue-dark" />
+	</a>
+	<a href="">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriomq&layout=compact&hide=java&theme=vue-dark" />
+	</a>
+</div>
 
 
