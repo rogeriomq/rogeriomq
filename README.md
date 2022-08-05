@@ -1,13 +1,14 @@
 # 👋, i'm Rogério Queiroz
 
-### I'm currently working on Full Stack Javascript Development!
+### I'm currently working on Full Stack Javascript Development and starting dart/flutter!
 
 ------
 
 #### Language & Tools:
 <div align="center">
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img width=40 alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  	<img width=40 alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+	<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  	<img width=40 alt="React JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img width=40 alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 	<img width=40 alt="Expo" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" />
 	<img width=40 alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
