@@ -1,6 +1,6 @@
 # 👋, i'm Rogério Queiroz
 
-### I'm currently working on Full Stack Javascript Development and starting dart/flutter!
+### I'm currently working on Full Stack Javascript Development and beginner in Dart/Flutter!
 
 ------
 
